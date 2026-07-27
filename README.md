@@ -12,6 +12,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![МИФИ](https://img.shields.io/badge/НИЯУ_МИФИ-1a5276?style=for-the-badge)
+![МИФИ](https://img.shields.io/badge/НИЯУ_МИФИ-000000?style=for-the-badge)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=awpxxda)
