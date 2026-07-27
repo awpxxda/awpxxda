@@ -14,6 +14,4 @@
 
 ![МИФИ](https://img.shields.io/badge/НИЯУ_МИФИ-000000?style=for-the-badge)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=awpxxda)
-
 ![Visitors](https://komarev.com/ghpvc/?username=awpxxda&color=1a5276&style=for-the-badge)
